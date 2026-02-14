@@ -2196,20 +2196,23 @@ body {
 }
 
 
-.bubble.nombre:before {
+.bubble:nth-child(27):before {
   content: "RISKA PUTERI";
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 28px; /* más grande */
-  font-weight: 700;
-  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  color: #ffffff; 
   text-shadow:
-    0 0 5px #fff,
-    0 0 10px #ff4da6,
-    0 0 20px #ff1a75;
-    letter-spacing: 2px;
+  0 0 5px #fff,
+  0 0 10px #ff4da6,
+  0 0 20px #ff1a75;
+  text-align: center;
+  white-space: nowrap;
+  z-index: 1;
+
 }
 
 
