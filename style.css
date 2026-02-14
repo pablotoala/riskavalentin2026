@@ -2218,7 +2218,8 @@ body {
 
 
 .bubble:nth-child(27):before {
-  content: "RISKA PUTERI";
+  content: "RISKA PUTERI \A Happy Valentine";
+  white-space: pre; 
   position: absolute;
   top: 50%;
   left: 50%;
