@@ -1579,6 +1579,7 @@ body {
   transform: translate(0, 0.05em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(2) {
   top: 83%;
@@ -1592,6 +1593,7 @@ body {
   transform: translate(0, 0.75em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(3) {
   top: 25%;
@@ -1605,6 +1607,7 @@ body {
   transform: translate(0, 0.5em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(4) {
   top: 63%;
@@ -1618,6 +1621,7 @@ body {
   transform: translate(0, 0.35em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(5) {
   top: 7%;
@@ -1631,6 +1635,7 @@ body {
   transform: translate(0, 0.3em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(6) {
   top: 10%;
@@ -1644,6 +1649,7 @@ body {
   transform: translate(0, 1.1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(7) {
   top: 68%;
@@ -1657,6 +1663,7 @@ body {
   transform: translate(0, 0.15em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(8) {
   top: 61%;
@@ -1670,6 +1677,7 @@ body {
   transform: translate(0, 1.05em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(9) {
   top: 24%;
@@ -1683,6 +1691,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(10) {
   top: 13%;
@@ -1696,6 +1705,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(11) {
   top: 76%;
@@ -1709,6 +1719,7 @@ body {
   transform: translate(0, 0.1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(12) {
   top: 22%;
@@ -1722,6 +1733,7 @@ body {
   transform: translate(0, 0.2em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(13) {
   top: 23%;
@@ -1735,6 +1747,7 @@ body {
   transform: translate(0, 0.1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(14) {
   top: 77%;
@@ -1748,6 +1761,7 @@ body {
   transform: translate(0, 0.45em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(15) {
   top: 41%;
@@ -1761,6 +1775,7 @@ body {
   transform: translate(0, 0.05em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(16) {
   top: 51%;
@@ -1774,6 +1789,7 @@ body {
   transform: translate(0, 1.15em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(17) {
   top: 37%;
@@ -1787,6 +1803,7 @@ body {
   transform: translate(0, 0.2em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(18) {
   top: 11%;
@@ -1800,6 +1817,7 @@ body {
   transform: translate(0, 0.9em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(19) {
   top: 64%;
@@ -1813,6 +1831,7 @@ body {
   transform: translate(0, 0.65em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 .bubble:nth-child(20) {
   top: 39%;
@@ -1826,6 +1845,7 @@ body {
   transform: translate(0, 0.2em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 
 .bubble:nth-child(21) {
@@ -1840,7 +1860,7 @@ body {
   transform: translate(0, 0.5em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 }
 
 
@@ -1856,7 +1876,7 @@ body {
   transform: translate(0, 0.5em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
   
 
 }
@@ -1873,7 +1893,7 @@ body {
   transform: translate(0, 0.5em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 
 }
 
@@ -1889,7 +1909,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 
 }
 
@@ -1906,7 +1926,7 @@ body {
   transform: translate(0, 0.5em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 
 }
 
@@ -1922,7 +1942,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 }
 
 .bubble:nth-child(27) {
@@ -1935,7 +1955,7 @@ body {
   box-shadow: inset 0 0 0 1.5vmin transparent;
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 
 }
 
@@ -1951,6 +1971,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
+  position: absolute;
 }
 
 .bubble:nth-child(29) {
@@ -1965,7 +1986,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 }
 
 .bubble:nth-child(30) {
@@ -1980,7 +2001,7 @@ body {
   transform: translate(0, 1em) scale(0);
   -webkit-transform-origin: center bottom;
   transform-origin: center bottom;
-  position: relative;
+  position: absolute;
 }
 
 @-webkit-keyframes love-burst {
@@ -2202,7 +2223,7 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 24px;
+  font-size: 30px;
   font-weight: bold;
   color: #fff; 
   text-align: center;
