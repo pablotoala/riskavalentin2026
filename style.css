@@ -2205,8 +2205,11 @@ body {
   font-size: 28px; /* más grande */
   font-weight: 700;
   color: #ffffff;
-  text-shadow: 0 0 12px rgba(0,0,0,0.8);
-  letter-spacing: 2px;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #ff4da6,
+    0 0 20px #ff1a75;
+    letter-spacing: 2px;
 }
 
 
